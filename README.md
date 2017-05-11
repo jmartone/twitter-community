@@ -1,4 +1,4 @@
-#twitter-community
+# twitter-community
 
 A tool for analyzing communities on twitter based on a list of users or a handle's followers.
 
