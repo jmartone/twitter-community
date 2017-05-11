@@ -1,4 +1,4 @@
-# twitter-community
+# twitter-community (WIP)
 
 A tool for analyzing communities on twitter based on a list of users or a handle's followers.
 
@@ -6,6 +6,7 @@ Requires authentication information in one JSON file `twitter_creds.json` with t
 
 	[
 		{
+			"NAME": "[AUTHENTICATION_NAME]",
 			"CONSUMER_KEY": "[CONSUMER_KEY]",
 			"CONSUMER_SECRET": "[CONSUMER_SECRET]",
 			"ACCESS_TOKEN": "[ACCESS_TOKEN]",
