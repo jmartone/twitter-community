@@ -20,7 +20,7 @@ from multiprocessing import Pool
 from functools import partial
 from sys import getsizeof
 
-class TwitterCommunityAnalysis(object):
+class TwitterCommunity(object):
 
 	def __init__(self, source = None, filterSpam = True, filterInactive = True,
 		filterGenPop = True, userSampleSize = 2000, writeCSVs = True):
